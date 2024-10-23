@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rociozalla
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on Innovative Projects
 - 📫 How to reach me rociozalla4@gmail.com
 
